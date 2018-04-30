@@ -5,3 +5,4 @@ dependencies:
   - geopandas
   - matplotlib
   - numpy
+  - mpl_toolkits
