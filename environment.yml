@@ -6,3 +6,5 @@ dependencies:
   - matplotlib
   - numpy
   - mpl_toolkits
+  - datetime
+  - csv
