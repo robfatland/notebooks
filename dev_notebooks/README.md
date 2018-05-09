@@ -4,9 +4,15 @@ These folders and notebooks are intended for Port Cormorack (a JupyterHub for th
 with some broader applicability to geoscience. This content is also highly relevant for advanced outreach. Everything
 here is intended to demonstrate data access and visualization across a wide variety of resources. Pull requests welcome.
 
+
+**Note: The 'kilroy' folder is for custom code used by multiple notebooks.**
+
+
 ## Contents by folder and notebook
 
 
+- kilroy is custom code used by multiple notebooks
+  - kilroy.py includes some image display methods
 - ml101 is an introduction to machine learning
   - k-nearest-neighbor, an algorithm for unsupervised machine learning
 - glodap is a low-resolution snapshot of the state of the world ocean 
