@@ -12,7 +12,7 @@ cache:
 # at $HOME/miniconda/pkgs. That is a win-win because when re-creating the
 # env we will download only the new packages.
 before_cache:
-  - rm -rf $HOME/miniconda/envs/TEST
+  - rm -rf $HOME/miniconda/envs/ioenv
 
 matrix:
   fast_finish: true
@@ -37,5 +37,5 @@ before_install:
 
 script:
   - if [[ $TEST_TARGET == 'envtest' ]]; then
-      source activate ioenv
+      source activate ioenv ;
     fi
