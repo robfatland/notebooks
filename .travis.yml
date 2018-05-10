@@ -21,7 +21,6 @@ matrix:
     env: TEST_TARGET=envtest
 
 before_install:
-  - rm -rf $HOME/miniconda/envs/ioenv
   - |
     URL="http://bit.ly/miniconda"
     echo ""
