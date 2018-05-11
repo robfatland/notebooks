@@ -1,5 +1,13 @@
 name: ioenv
+channels: 
+  - conda-forge
 dependencies:
   - python=3.6
   - xarray
   - geopandas
+  - matplotlib
+  - numpy
+  - obspy
+  - requests
+  - lxml
+  - boto3
