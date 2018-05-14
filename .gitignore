@@ -4,4 +4,6 @@ test.csv
 curviz.ipynb
 testcurrent.csv
 testwind.csv
-
+dev_notebooks/rob/creds/iotauth.txt
+dev_notebooks/rob/creds/ooiauth.txt
+dev_notebooks/rob/creds/s3auth.txt
