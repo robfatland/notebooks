@@ -11,3 +11,6 @@ dependencies:
   - requests
   - lxml
   - boto3
+  - networkx
+  - ipywidgets
+  - traitlets
