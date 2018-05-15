@@ -10,11 +10,7 @@ dependencies:
   - obspy
   - requests
   - lxml
-  - boto
-  - ftplib
-  - netCDF4
+  - boto3
   - networkx
-  - IPython
   - ipywidgets
   - traitlets
-  - boto3
