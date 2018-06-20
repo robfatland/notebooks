@@ -5,6 +5,8 @@ curviz.ipynb
 creds.txt
 testcurrent.csv
 testwind.csv
+__pycache__
+.idea
 
 
 dev_notebooks/rob/creds/iotauth.txt
