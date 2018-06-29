@@ -14,3 +14,5 @@ dependencies:
   - networkx
   - ipywidgets
   - traitlets
+  - pip:
+    - git+https://github.com/cormorack/yodapy

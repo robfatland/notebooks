@@ -12,3 +12,6 @@ __pycache__
 dev_notebooks/rob/creds/iotauth.txt
 dev_notebooks/rob/creds/ooiauth.txt
 dev_notebooks/rob/creds/s3auth.txt
+
+# Dask
+dask-worker-space
