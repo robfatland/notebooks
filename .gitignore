@@ -15,3 +15,6 @@ dev_notebooks/rob/creds/s3auth.txt
 
 # Dask
 dask-worker-space
+
+# Large files
+test2.nc
